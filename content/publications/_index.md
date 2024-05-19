@@ -3,9 +3,9 @@ title: "Papers"
 description: ""
 ---
 
-## Publications
+# Publications
 
-#### 2024 
+### 2024 
 
 ---
 
@@ -49,7 +49,7 @@ Bhattacharya\
         </details>  
 <br></br>
 
-#### 2023
+### 2023
 
 ---
 
@@ -66,7 +66,7 @@ Bhattacharya\
         </details>
 <br></br>
 
-#### 2022
+### 2022
 
 ---
 
@@ -94,7 +94,7 @@ Bhattacharya\
 
 --- 
 
-## Patents
+# Patents
 * **<font color='#FA8072'>[Indian Patent] Method And System Facilitating Data Optimization In A Data Transmission Process </font>**\
 **<u>Shubham Chaudhary</u>**, Aryan Taneja, Anjali Singh, Arani Bhattacharya, Mukulika Maity\
 <font color="#3498DB"> Application Number: 202211028440 </font>
