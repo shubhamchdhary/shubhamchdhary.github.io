@@ -55,8 +55,8 @@ params:
           title: Shubham Chaudhary
           subtitle: "Shubham Chaudhary is currently a Ph.D. Scholar at IIIT Delhi in the Dept. of Computer Science & Engineering working in the areas of Edge Computing and Real-time Video Analytics. He did his BTech in Electrical Engineering from Kamla Nehru Institute of Technology Sultanpur, a state-owned autonomous college in Uttar Pradesh."
           imageUrl: "mypic_cropped.JPG"
-          imageWidth: 160
-          imageHeight: 160
+          imageWidth: 200
+          imageHeight: 200
           imageTitle: Shubham Chaudhary
           buttons:
             - name: Projects
