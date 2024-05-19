@@ -12,16 +12,16 @@ taxonomies:
 menu:
     main:
         - name: Projects
-          url: /books/
+          url: books/
           weight: 1 
         - name: Publications
-          url: /papers/
+          url: papers/
           weight: 2
         - name: News
-          url: /data/
+          url: data/
           weight: 3
         - name: Teaching
-          url: /courses/
+          url: courses/
           weight: 4 
         # - name: CV
         #   url: /tags/
@@ -30,7 +30,6 @@ menu:
 
 params:
     description: "I'm a PhD Scholar at IIIT Delhi."
-consequat."
     author: Shubham Chaudhary
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "May 2024"
