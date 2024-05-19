@@ -1,4 +1,4 @@
-baseURL: "https://shubhamchdhary.github.io/" 
+baseURL: "https://pascalmichaillat.org/hugo-website/" 
 title: Shubham Chaudhary
 paginate: 20
 theme: PaperMod
@@ -11,30 +11,30 @@ taxonomies:
 
 menu:
     main:
-        - name: Projects
+        - name: Books
           url: books/
           weight: 1 
-        - name: Publications
+        - name: Papers
           url: papers/
           weight: 2
-        - name: News
-          url: data/
+        - name: Courses
+          url: courses/
           weight: 3
-        # - name: Teaching
-        #   url: courses/
-        #   weight: 4 
-        # - name: CV
-        #   url: /tags/
-        #   weight: 5
-          
+        - name: Data
+          url: data/
+          weight: 4 
+        - name: Blog
+          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          weight: 5
 
 params:
-    description: "I'm a PhD Scholar at IIIT Delhi."
-    author: Shubham Chaudhary
+    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs.
+consequat."
+    author: Moritz-Maria von Igelfeld
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "May 2024"
+    DateFormat: "January 2006"
     defaultTheme: dark
-    hideFooter: true
+    hideFooter: false
     disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
@@ -42,10 +42,10 @@ params:
     disableAnchoredHeadings: true
     ShowPostNavLinks: false
     ShowBreadCrumbs: false
-    ShowCodeCopyButtons: false
+    ShowCodeCopyButtons: true
     ShowRssButtonInSectionTermList: false
     ShowToc: false
-    disableScrollToTop: false
+    disableScrollToTop: true
     TocOpen: true
     ShowWordCount: false
     UseHugoToc: true
@@ -53,42 +53,54 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Shubham Chaudhary
+          title: Professor Dr von Igelfeld
           subtitle: "Wilkommen! I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses specifically on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dr Dr Dieter Vogelsang, in Munich, Germany, and later a doctoral student (second assistant) of Professor Walter Schoeffler-Henschell at the University of Wiesbaden, Germany."
-          imageUrl: "picture.jpeg"
-          imageWidth: 200
-          imageHeight: 200
-          imageTitle: Shubham Chaudhary
+          imageUrl: "mypic_cropped.JPG"
+          imageWidth: 160
+          imageHeight: 160
+          imageTitle: Moritz-Maria von Igelfeld
           buttons:
-            - name: Projects
-              url: /books/
-            - name: Publications
-              url: /papers/
-            - name: News
-              url: /data/
-            # - name: Teaching
-            #   url: /courses/
-            # - name: CV
-            #   url: /tags/
+            - name: Books
+              url: books/
+            - name: Papers
+              url: papers/
+            - name: Courses
+              url: courses/
+            - name: Data
+              url: data/
+            - name: Tags
+              url: tags/
+            - name: Archive
+              url: archive/
+            - name: Blog
+              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: Email
-          url: shubhamch@iiitd.ac.in
+          url: mailto:moritz.maria.von.igelfeld@gmail.com
+        - name: CV
+          url: cv.pdf
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=zjqLCUsAAAAJ&hl=en
-        - name: LinkedIn
-          url: https://www.linkedin.com/in/shubhamchdhary
+          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+        - name: Location
+          url: location/
+        - name: Office Hours
+          url: officehours/
         - name: GitHub
-          url: https://github.com/shubhamchdhary
+          url: https://github.com/pmichaillat
+        - name: YouTube
+          url: https://www.youtube.com/@alexandermccallsmithoffici9000
+        - name: Twitter
+          url: https://twitter.com/McCallSmith
 
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
     cover:
-        hiddenInList: true
+        hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Shubham Chaudhary"
+      text: "Moritz-Maria von Igelfeld"
       icon: favicon.ico
       iconHeight: 18
 
@@ -102,4 +114,4 @@ markup:
     tableOfContents:
         endLevel: 2
         ordered: false
-        startLeve
+        startLevel: 2
