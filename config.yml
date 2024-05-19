@@ -1,5 +1,5 @@
 baseURL: "https://shubhamchdhary.github.io/" 
-title: Moritz-Maria von Igelfeld
+title: Shubham Chaudhary
 paginate: 20
 theme: PaperMod
 
@@ -30,10 +30,10 @@ menu:
 params:
     description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs.
 consequat."
-    author: Moritz-Maria von Igelfeld
+    author: Shubham Chaudhary
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: dark
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
@@ -53,12 +53,12 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
+          title: Shubham Chaudhary
           subtitle: "Wilkommen! I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses specifically on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dr Dr Dieter Vogelsang, in Munich, Germany, and later a doctoral student (second assistant) of Professor Walter Schoeffler-Henschell at the University of Wiesbaden, Germany."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Moritz-Maria von Igelfeld
+          imageTitle: Shubham Chaudhary
           buttons:
             - name: Books
               url: books/
@@ -100,7 +100,7 @@ consequat."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Shubham Chaudhary"
       icon: favicon.ico
       iconHeight: 18
 
