@@ -54,13 +54,16 @@ params:
           enabled: true
           title: Shubham Chaudhary
           subtitle: "Hi There!\n
-                     I'm currently a Ph.D. Scholar at IIIT Delhi, India in the Dept. of Computer Science & Engineering 
-                     working in the areas of Edge Computing and Real-time Video Analytics. I'm work in the Network 
-                     and Systems Lab, IIIT Delhi under the supervision of [**Dr. Arani Bhattacharya**](https://faculty.iiitd.ac.in/~arani/).
+                    
+                    <b><br>
+                    I'm currently a Ph.D. Scholar at IIIT Delhi, India in the Dept. of Computer Science & Engineering 
+                    working in the areas of Edge Computing, Real-time Video Analytics, and Live Video Streaming. I work in the Network 
+                    and Systems Lab, IIIT Delhi under the supervision of [**Dr. Arani Bhattacharya**](https://faculty.iiitd.ac.in/~arani/).
                      
-                     <br><br>
-                     I completed my Bachelors in Electrical Engineering from Kamla Nehru Institute of Technology Sultanpur, 
-                     a state-owned autonomous college in Uttar Pradesh, India. I love watching movies and playing Badminton."
+                    <br><br>
+                    I completed my Bachelors in Electrical Engineering from Kamla Nehru Institute of Technology Sultanpur, 
+                    a state-owned autonomous college in Uttar Pradesh, India. I love watching movies and playing Badminton."
+                
           imageUrl: "mypic_cropped.JPG"
           imageWidth: 200
           imageHeight: 200
