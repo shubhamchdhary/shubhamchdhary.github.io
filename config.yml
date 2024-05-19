@@ -20,9 +20,9 @@ menu:
         - name: News
           url: data/
           weight: 3
-        - name: Teaching
-          url: courses/
-          weight: 4 
+        # - name: Teaching
+        #   url: courses/
+        #   weight: 4 
         # - name: CV
         #   url: /tags/
         #   weight: 5
