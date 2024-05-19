@@ -67,13 +67,13 @@ params:
           imageTitle: Shubham Chaudhary
           buttons:
             - name: Projects
-              url: books/
+              url: projects/
             - name: Publications
-              url: papers/
+              url: publications/
             - name: News
-              url: data/
+              url: news/
             - name: Teaching
-              url: courses/
+              url: teaching/
             - name: CV
               url: https://drive.google.com/file/d/1AfOAzEcz7KGx_5afz-fHFQms99SDOHyx/view?usp=sharing
 
