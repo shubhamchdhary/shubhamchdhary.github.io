@@ -28,13 +28,12 @@ menu:
           weight: 5
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs.
-consequat."
+    description: "I'm a PhD Scholar at IIIT Delhi."
     author: Shubham Chaudhary
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
+    DateFormat: "May 2024"
     defaultTheme: dark
-    hideFooter: false
+    hideFooter: true
     disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
@@ -42,10 +41,10 @@ consequat."
     disableAnchoredHeadings: true
     ShowPostNavLinks: false
     ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
+    ShowCodeCopyButtons: false
     ShowRssButtonInSectionTermList: false
     ShowToc: false
-    disableScrollToTop: true
+    disableScrollToTop: false
     TocOpen: true
     ShowWordCount: false
     UseHugoToc: true
@@ -54,26 +53,22 @@ consequat."
     profileMode:
           enabled: true
           title: Shubham Chaudhary
-          subtitle: "Wilkommen! I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses specifically on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dr Dr Dieter Vogelsang, in Munich, Germany, and later a doctoral student (second assistant) of Professor Walter Schoeffler-Henschell at the University of Wiesbaden, Germany."
+          subtitle: "Shubham Chaudhary is currently a Ph.D. Scholar at IIIT Delhi in the Dept. of Computer Science & Engineering working in the areas of Edge Computing and Real-time Video Analytics. He did his BTech in Electrical Engineering from Kamla Nehru Institute of Technology Sultanpur, a state-owned autonomous college in Uttar Pradesh."
           imageUrl: "mypic_cropped.JPG"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Shubham Chaudhary
           buttons:
-            - name: Books
+            - name: Projects
               url: books/
-            - name: Papers
+            - name: Publications
               url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
+            - name: News
               url: data/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Teaching
+              url: courses/
+            - name: CV
+              url: https://drive.google.com/file/d/1AfOAzEcz7KGx_5afz-fHFQms99SDOHyx/view?usp=sharing
 
     socialIcons:
         - name: Email
