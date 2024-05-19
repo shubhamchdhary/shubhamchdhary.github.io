@@ -12,16 +12,16 @@ taxonomies:
 menu:
     main:
         - name: Projects
-          url: books/
+          url: projects/
           weight: 1 
         - name: Publications
-          url: papers/
+          url: publications/
           weight: 2
         - name: Teaching
-          url: courses/
+          url: teaching/
           weight: 3
         - name: News
-          url: data/
+          url: news/
           weight: 4 
         - name: CV
           url: https://drive.google.com/file/d/1AfOAzEcz7KGx_5afz-fHFQms99SDOHyx/view?usp=sharing
