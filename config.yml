@@ -11,38 +11,41 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
+        - name: Projects
           url: books/
           weight: 1 
-        - name: Papers
+        - name: Publications
           url: papers/
           weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
+        - name: News
           url: data/
-          weight: 4 
+          weight: 3
+        # - name: Teaching
+        #   url: courses/
+        #   weight: 4 
+        # - name: CV
+        #   url: /tags/
+        #   weight: 5
+          
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs.
-consequat."
+    description: "I'm a PhD Scholar at IIIT Delhi."
     author: Shubham Chaudhary
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
+    DateFormat: "May 2024"
     defaultTheme: dark
-    hideFooter: false
-    disableThemeToggle: true
+    hideFooter: true
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
     ShowPostNavLinks: false
     ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
+    ShowCodeCopyButtons: false
     ShowRssButtonInSectionTermList: false
     ShowToc: false
-    disableScrollToTop: true
+    disableScrollToTop: false
     TocOpen: true
     ShowWordCount: false
     UseHugoToc: true
@@ -53,42 +56,36 @@ consequat."
           title: Shubham Chaudhary
           subtitle: "Wilkommen! I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses specifically on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dr Dr Dieter Vogelsang, in Munich, Germany, and later a doctoral student (second assistant) of Professor Walter Schoeffler-Henschell at the University of Wiesbaden, Germany."
           imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          imageWidth: 200
+          imageHeight: 200
           imageTitle: Shubham Chaudhary
           buttons:
-            - name: Books
-              url: books/
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
+            - name: Projects
+              url: /books/
+            - name: Publications
+              url: /papers/
+            - name: News
+              url: /data/
+            # - name: Teaching
+            #   url: /courses/
+            # - name: CV
+            #   url: /tags/
 
     socialIcons:
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: CV
-          url: cv.pdf
+          url: shubhamch@iiitd.ac.in
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: https://scholar.google.com/citations?user=zjqLCUsAAAAJ&hl=en
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/shubhamchdhary
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://github.com/shubhamchdhary
 
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
     cover:
-        hiddenInList: false
+        hiddenInList: true
         hiddenInSingle: true
     label:
       text: "Shubham Chaudhary"
@@ -105,4 +102,4 @@ markup:
     tableOfContents:
         endLevel: 2
         ordered: false
-        startLevel: 2
+        startLeve
