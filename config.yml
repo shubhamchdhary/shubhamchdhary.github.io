@@ -72,30 +72,22 @@ params:
 
     socialIcons:
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: CV
-          url: cv.pdf
+          url: shubhamch@iiitd.ac.in
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: https://scholar.google.com/citations?user=zjqLCUsAAAAJ&hl=en
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/shubhamchdhary
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://github.com/shubhamchdhary
 
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
     cover:
-        hiddenInList: false
+        hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Shubham Chaudhary"
       icon: favicon.ico
       iconHeight: 18
 
