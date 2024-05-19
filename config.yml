@@ -12,19 +12,19 @@ taxonomies:
 menu:
     main:
         - name: Projects
-          url: /projects/
+          url: /books/
           weight: 1 
         - name: Publications
-          url: /publications/
+          url: /papers/
           weight: 2
         - name: News
-          url: /news/
+          url: /data/
           weight: 3
         - name: Teaching
-          url: /teaching/
+          url: /courses/
           weight: 4 
         - name: CV
-          url: /cv/
+          url: /tags/
           weight: 5
           
 
@@ -62,15 +62,15 @@ consequat."
           imageTitle: Shubham Chaudhary
           buttons:
             - name: Projects
-              url: /projects/
+              url: /books/
             - name: Publications
-              url: /publications/
+              url: /papers/
             - name: News
-              url: /news/
+              url: /data/
             - name: Teaching
-              url: /teaching/ 
-              - name: CV
-              url: /cv/
+              url: /courses/
+            - name: CV
+              url: /tags/
 
     socialIcons:
         - name: Email
