@@ -11,20 +11,20 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
+        - name: Projects
           url: books/
           weight: 1 
-        - name: Papers
+        - name: Publications
           url: papers/
           weight: 2
-        - name: Courses
+        - name: Teaching
           url: courses/
           weight: 3
-        - name: Data
+        - name: News
           url: data/
           weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        - name: CV
+          url: https://drive.google.com/file/d/1AfOAzEcz7KGx_5afz-fHFQms99SDOHyx/view?usp=sharing
           weight: 5
 
 params:
