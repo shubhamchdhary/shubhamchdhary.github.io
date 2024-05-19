@@ -23,9 +23,9 @@ menu:
         - name: Teaching
           url: /courses/
           weight: 4 
-        - name: CV
-          url: /tags/
-          weight: 5
+        # - name: CV
+        #   url: /tags/
+        #   weight: 5
           
 
 params:
@@ -69,8 +69,8 @@ consequat."
               url: /data/
             - name: Teaching
               url: /courses/
-            - name: CV
-              url: /tags/
+            # - name: CV
+            #   url: /tags/
 
     socialIcons:
         - name: Email
