@@ -23,7 +23,7 @@ menu:
         - name: Teaching
           url: /teaching/
           weight: 4 
-          - name: CV
+        - name: CV
           url: /cv/
           weight: 5
           
