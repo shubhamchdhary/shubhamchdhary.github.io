@@ -36,13 +36,13 @@ Bhattacharya\
 <font color="#3498DB"> In the Proceedings of the 2024 USENIX Annual Technical Conference (ATC) to be held in Santa Clara, CA, USA </font>\
 <button style=
         "background-color: #82E0AA ; color: white;" name="pdfbutton"
-        onclick="http://www.google.com">PDF</button>
+        onclick="">PDF</button>
 <button style=
         "background-color: #F5B041 ; color: white;" name="pptbutton"
-        onclick="http://www.google.com">PPT</button>
+        onclick="">PPT</button>
 <button style=
         "background-color: #A569BD ; color: white;" name="codebutton"
-        onclick="http://www.google.com">CODE</button><font style="float:right">**(Accepted)**</font>
+        onclick="https://github.com/shubhamchdhary/TileClipper">CODE</button><font style="float:right">**(Accepted)**</font>
         <details> <summary>Abstract</summary>
         ```With traffic surveillance increasingly used, thousands of cameras on roads send video feeds to cloud servers to run computer vision algorithms, requiring high bandwidth. State-of-the-art techniques reduce the bandwidth requirement by either sending a  limited number of frames/pixels/regions or relying on re-encoding the important parts of the video. This imposes significant overhead on both the camera side and server side compute as re-encoding is expensive.  In this work, we propose TileClipper, a system that utilizes tile sampling, where a limited number of rectangular areas within the frames, known as tiles, are sent to the server. TileClipper selects the tiles adaptively by utilizing its correlation with the tile bitrates. We evaluate TileClipper on different datasets having 55 videos in total to show that, on average, our technique reduces approx.22% of data sent to the cloud while providing a detection accuracy of 92% with minimal calibration and compute compared to prior works. We show real-time tile filtering of TileClipper even on cheap edge devices like Raspberry Pi 4 and nVidia Jetson Nano. We further create a live deployment of TileClipper to show that it provides over 87% detection accuracy and over 55% bandwidth savings.
         ```
