@@ -38,7 +38,7 @@ params:
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
-    disableAnchoredHeadings: true
+    disableAnchoredHeadings: false
     ShowPostNavLinks: false
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: false
@@ -53,9 +53,9 @@ params:
     profileMode:
           enabled: true
           title: Shubham Chaudhary
-          subtitle: "Hi There!\n
+          subtitle: "Hi There! \n
                     
-                    <b><br>
+                    <br><br>
                     I'm currently a Ph.D. Scholar at IIIT Delhi, India in the Dept. of Computer Science & Engineering 
                     working in the areas of Edge Computing, Real-time Video Analytics, and Live Video Streaming. I work in the Network 
                     and Systems Lab, IIIT Delhi under the supervision of [**Dr. Arani Bhattacharya**](https://faculty.iiitd.ac.in/~arani/).
