@@ -43,7 +43,7 @@ Bhattacharya\
         onclick="">PPT</button>
 <button style=
         "background-color: #A569BD ; color: white;" name="codebutton"
-        onclick="https://github.com/shubhamchdhary/TileClipper">CODE</button><font style="float:right">**(Accepted)**</font>
+        onclick="location.href='https://github.com/shubhamchdhary/TileClipper';">CODE</button><font style="float:right">**(Accepted)**</font>
         <details> <summary>Abstract</summary>
     |  | 
     | -------- |
