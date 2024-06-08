@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: Shubham Chaudhary
-          subtitle: "Hi There! \n
+          subtitle: <p align="justify">"Hi There!
                     
                     <br><br>
                     I'm currently a Ph.D. Scholar at IIIT Delhi, India in the Dept. of Computer Science & Engineering 
@@ -62,7 +62,7 @@ params:
                      
                     <br><br>
                     I completed my Bachelors in Electrical Engineering from Kamla Nehru Institute of Technology Sultanpur, 
-                    a state-owned autonomous college in Uttar Pradesh, India. I love watching movies and playing Badminton."
+                    a state-owned autonomous college in Uttar Pradesh, India. I love watching movies and playing Badminton."</p>
                 
           imageUrl: "mypic_cropped.JPG"
           imageWidth: 200
