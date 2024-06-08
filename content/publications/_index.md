@@ -60,9 +60,8 @@ Keshav Gambhir, Tanmay Rajore, **<u>Shubham Chaudhary</u>**, Taral Jain, Avishi 
 Bhattacharya\
 <font color="#3498DB"> Demo Paper in Proceedings of International Conference on COMmunication Systems & NETworkS (COMSNETS) held in 2023, Bangalore, India </font><font style="float:right">**(Published)**</font>\
 <button style=
-        "background-color: #82E0AA ; color: white;" name="pdfbutton"
-        onclick="https://ieeexplore.ieee.org/abstract/document/10041371">PDF</button>
-        <details> <summary>Abstract</summary>    
+        "background-color: #A569BD ; color: white;" name="codebutton"
+        onclick="location.href='https://ieeexplore.ieee.org/abstract/document/10041371';">PDF</button><details> <summary>Abstract</summary>    
     |  | 
     | -------- |
     <p align="justify">The COVID-19 pandemic has forced most interactions to move to online space, starting from online lectures, conferences in hybrid mode, and work-from-home office works. Hence, it is essential for live video streaming to be reliable and provide a good quality of experience (QoE) to users. However, in large sections of the world, the cellular network is not reliable enough to be used for online participation in such events. To quantify this problem, we first measure the QoE in terms oflag, video resolution, and dropped calls on a popular video conferencing platform Google Meet over three different cellular ISPs in New Delhi, India. We observe significantly worse quality of experience metrics compared to a study recently performed in the US. To mitigate this problem, we propose NATIVE (Network Aggregation-based Tiled lIve Video strEaming), a system of aggregating the cellular network connectivity using a secondary or helper device in the vicinity trusted by the user. The implementation of NATIVE uses tiled encoding of video, where the video frames are divided into rectangular units known as tiles. All the tiles are divided into two subsets which are scheduled independently via the available network interfaces depending on its importance. The receiver device receives video segments from the two network paths and stitches back the tiles in them to play. We show the demo of NATIVE using two laptops and a cloud server where the server acts as a streamer
