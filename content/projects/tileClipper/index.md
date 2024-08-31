@@ -3,22 +3,22 @@ title: "Leveraging Tile Filtering for Real-time Traffic Surveillance"
 # date: 2024-05-01
 # lastmod: 2024-05-08
 tags: ["Traffic Surveillance","Video Analytics","Video Tiles","TileClipper"]
-author: ["Shubham Chaudhary", "Aryan Taneja", "Anjali Singh", "Purbasha Roy", "Sohum Sikdar", Mukulika Maity", "Arani Bhattacharya"]
+author: ["Shubham Chaudhary", "Aryan Taneja", "Anjali Singh", "Purbasha Roy", "Sohum Sikdar", "Mukulika Maity", "Arani Bhattacharya"]
 # description: "." 
 summary: "This projects aims to reduce the amount of data sent to servers for video analytics using lightweight tile filtering." 
 cover:
     image: "Illustration.jpg"
     alt: "TileClipper"
     relative: false
-editPost:
-    URL: "https://github.com/shubhamchdhary/TileClipper"
-    Text: "USENIX ATC 2024"
+# editPost:
+#     URL: "https://github.com/shubhamchdhary/TileClipper"
+#     Text: "USENIX ATC 2024"
 
 ---
 
 ---
 
-##### Download
+##### Resources
 
 + [Paper & Presentation](https://www.usenix.org/conference/atc24/presentation/chaudhary)
 + [Code](https://github.com/shubhamchdhary/TileClipper)
@@ -32,17 +32,18 @@ With traffic surveillance increasingly used, thousands of cameras on roads send 
 TileClipper selects the tiles adaptively by utilizing its correlation with the tile bitrates.
 We evaluate TileClipper on different datasets having 55 videos in total to show that, on average, our technique reduces approx.22% of data sent to the cloud while providing a detection accuracy of 92% with minimal calibration and compute compared to prior works. We show real-time tile filtering of TileClipper even on cheap edge devices like Raspberry Pi 4 and nVidia Jetson Nano. We further create a live deployment of TileClipper to show that it provides over 87% detection accuracy and over 55% bandwidth savings.
 
+![Before Tile Pruning](UnremovedTileFrameSnip.png) | ![After Tile Pruning](tileRemovedFrameSnip1.png)
+:--:| :--:
+**Before Tile Pruning**| **After Tile Pruning**
 ---
 
-##### Papers Published
-![TileClipper @ USENIX ATC'24](publications/tileClipper/TileClipper.png)
+##### Papers
+![TileClipper @ USENIX ATC'24](TileClipper.png)
 
 ---
 
 ##### Tile Pruning
-![Before Tile Pruning](publications/tileClipper/UnremovedTileFrameSnip.png) | ![After Tile Pruning](publications/tileClipper/tileRemovedFrameSnip1.png)
-:--:| :--:
-**Before Tile Pruning**| **After Tile Pruning**
+
 
 ---
 
