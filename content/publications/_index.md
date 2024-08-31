@@ -37,7 +37,7 @@ Bhattacharya\
 <font color="#3498DB"> In the Proceedings of the 2024 USENIX Annual Technical Conference (ATC) to be held in Santa Clara, CA, USA </font>\
 <button style=
         "background-color: #669900 ; color: white;" name="pdfbutton"
-        onclick="location.href='https://www.usenix.org/conference/atc24/presentation/chaudhary';">PDF & Slides</button>
+        onclick=" window.open('https://www.usenix.org/conference/atc24/presentation/chaudhary', '_blank'); return false;">PDF & Slides</button>
 <button style=
         "background-color: #A569BD ; color: white;" name="codebutton"
         onclick="location.href='https://github.com/shubhamchdhary/TileClipper';">CODE</button><font style="float:right">**(Accepted)**</font>
