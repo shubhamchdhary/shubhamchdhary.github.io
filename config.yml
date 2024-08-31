@@ -14,18 +14,18 @@ menu:
         - name: News
           url: news/
           weight: 1
-        # - name: Projects
-        #   url: projects/
-        #   weight: 2 
+        - name: Projects
+          url: projects/
+          weight: 2 
         - name: Publications
           url: publications/
-          weight: 2
+          weight: 3
         # - name: Teaching
         #   url: teaching/
         #   weight: 4
         - name: CV
           url: https://drive.google.com/file/d/1AfOAzEcz7KGx_5afz-fHFQms99SDOHyx/view?usp=sharing
-          weight: 3
+          weight: 4
 
 params:
     description: "I'm a PhD Scholar at IIIT Delhi."
@@ -71,8 +71,8 @@ params:
           buttons:
             - name: News
               url: news/
-            # - name: Projects
-            #   url: projects/
+            - name: Projects
+              url: projects/
             - name: Publications
               url: publications/
             # - name: Teaching
