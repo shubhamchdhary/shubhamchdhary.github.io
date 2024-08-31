@@ -11,21 +11,21 @@ taxonomies:
 
 menu:
     main:
+        - name: News
+          url: news/
+          weight: 1
         # - name: Projects
         #   url: projects/
-        #   weight: 1 
+        #   weight: 2 
         - name: Publications
           url: publications/
-          weight: 1
+          weight: 2
         # - name: Teaching
         #   url: teaching/
-        #   weight: 3
-        # - name: News
-        #   url: news/
-        #   weight: 4 
+        #   weight: 4
         - name: CV
           url: https://drive.google.com/file/d/1AfOAzEcz7KGx_5afz-fHFQms99SDOHyx/view?usp=sharing
-          weight: 2
+          weight: 3
 
 params:
     description: "I'm a PhD Scholar at IIIT Delhi."
@@ -69,12 +69,12 @@ params:
           imageHeight: 200
           imageTitle: Shubham Chaudhary
           buttons:
+            - name: News
+              url: news/
             # - name: Projects
             #   url: projects/
             - name: Publications
               url: publications/
-            # - name: News
-            #   url: news/
             # - name: Teaching
             #   url: teaching/
             - name: CV
