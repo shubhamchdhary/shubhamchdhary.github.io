@@ -1,11 +1,11 @@
 ---
-title: "TileClipper: Lightweight Selection of Regions of Interest from Videos for Traffic Surveillance" 
-date: 2024-05-01
+title: "Leveraging Tile Filtering for Real-time Traffic Surveillance" 
+# date: 2024-05-01
 # lastmod: 2024-05-08
 tags: ["Traffic Surveillance","Video Analytics","Video Tiles","TileClipper"]
 author: ["Shubham Chaudhary", "Aryan Taneja", "Anjali Singh", "Purbasha Roy", "Sohum Sikdar", Mukulika Maity", "Arani Bhattacharya"]
 # description: "." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+summary: "This projects aims to reduce the amount of data sent to servers for video analytics using lightweight tile filtering." 
 cover:
     image: "Illustration.jpg"
     alt: "TileClipper"
@@ -20,9 +20,8 @@ editPost:
 
 ##### Download
 
-+ [Paper]()
-+ [Presentation]()
-+ [Code and data](https://github.com/shubhamchdhary/TileClipper)
++ [Paper & Presentation](https://www.usenix.org/conference/atc24/presentation/chaudhary)
++ [Code](https://github.com/shubhamchdhary/TileClipper)
 
 ---
 
@@ -35,9 +34,8 @@ We evaluate TileClipper on different datasets having 55 videos in total to show 
 
 ---
 
-##### TileClipper Overview
-
-![](publications/tileClipper/TileClipper.png)
+##### Papers Published
+![TileClipper @ USENIX ATC'24](publications/tileClipper/TileClipper.png)
 
 ---
 
@@ -50,23 +48,19 @@ We evaluate TileClipper on different datasets having 55 videos in total to show 
 
 ##### Citation
 
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2001. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
-
 ```BibTeX
-@article{UV01,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2001},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34),
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
+@inproceedings {298605,
+author = {Shubham Chaudhary and Aryan Taneja and Anjali Singh and Purbasha Roy and Sohum Sikdar and Mukulika Maity and Arani Bhattacharya},
+title = {{TileClipper}: Lightweight Selection of Regions of Interest from Videos for Traffic Surveillance},
+booktitle = {2024 USENIX Annual Technical Conference (USENIX ATC 24)},
+year = {2024},
+isbn = {978-1-939133-41-0},
+address = {Santa Clara, CA},
+pages = {967--984},
+url = {https://www.usenix.org/conference/atc24/presentation/chaudhary},
+publisher = {USENIX Association},
+month = jul
+}
 ```
 
 ---
-
-##### Related material
-
-+ [Slides for long presentation](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
