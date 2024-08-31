@@ -27,10 +27,10 @@ cover:
 
 ##### Abstract
 
-With traffic surveillance increasingly used, thousands of cameras on roads send video feeds to cloud servers to run computer vision algorithms, requiring high bandwidth. State-of-the-art techniques reduce the bandwidth requirement by either sending a  limited number of frames/pixels/regions or relying on re-encoding the important parts of the video. This imposes significant overhead on both the camera side and server side compute as re-encoding is expensive.  In this work, we propose TileClipper, a system that utilizes tile sampling, where a limited number of rectangular areas within the frames, known as tiles, are sent to the server. 
+<p align="justify"> With traffic surveillance increasingly used, thousands of cameras on roads send video feeds to cloud servers to run computer vision algorithms, requiring high bandwidth. State-of-the-art techniques reduce the bandwidth requirement by either sending a  limited number of frames/pixels/regions or relying on re-encoding the important parts of the video. This imposes significant overhead on both the camera side and server side compute as re-encoding is expensive.  In this work, we propose TileClipper, a system that utilizes tile sampling, where a limited number of rectangular areas within the frames, known as tiles, are sent to the server.</p>
 
-TileClipper selects the tiles adaptively by utilizing its correlation with the tile bitrates.
-We evaluate TileClipper on different datasets having 55 videos in total to show that, on average, our technique reduces approx.22% of data sent to the cloud while providing a detection accuracy of 92% with minimal calibration and compute compared to prior works. We show real-time tile filtering of TileClipper even on cheap edge devices like Raspberry Pi 4 and nVidia Jetson Nano. We further create a live deployment of TileClipper to show that it provides over 87% detection accuracy and over 55% bandwidth savings.
+<p align="justify">TileClipper selects the tiles adaptively by utilizing its correlation with the tile bitrates.
+We evaluate TileClipper on different datasets having 55 videos in total to show that, on average, our technique reduces approx.22% of data sent to the cloud while providing a detection accuracy of 92% with minimal calibration and compute compared to prior works. We show real-time tile filtering of TileClipper even on cheap edge devices like Raspberry Pi 4 and nVidia Jetson Nano. We further create a live deployment of TileClipper to show that it provides over 87% detection accuracy and over 55% bandwidth savings.</p>
 
 ![Before Tile Pruning](UnremovedTileFrameSnip.png) | ![After Tile Pruning](tileRemovedFrameSnip1.png)
 :--:| :--:
@@ -38,12 +38,8 @@ We evaluate TileClipper on different datasets having 55 videos in total to show 
 ---
 
 ##### Papers
-![TileClipper @ USENIX ATC'24](TileClipper.png)
-
----
-
-##### Tile Pruning
-
+* TileClipper @ USENIX ATC'24
+* VISTA @ LastMileS Workhop, COMSNETS'22
 
 ---
 
