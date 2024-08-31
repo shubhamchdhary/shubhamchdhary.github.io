@@ -44,9 +44,10 @@ We evaluate TileClipper on different datasets having 55 videos in total to show 
 ---
 
 ### TileClipper
+##### Pipeline Overview
 ![Pipeline Overview](Illustration.png)
-<br>
 
+##### System Design
 ![System Design](TileClipper.png)
 
 ---
