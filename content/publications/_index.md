@@ -8,11 +8,15 @@ description: ""
 ### 2024 
 
 ---
+* **<font color="#FA8072">[COMPASS] Network Architecture Search for Sustainable Traffic
+Surveillance</font>**\
+**<u>Shubham Chaudhary</u>** and Arani Bhattacharya\
+<font color="#3498DB">  Poster in Doctoral Consortium at the 7th ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS'24) held in Delhi, India </font><font style="float:right">**(Accepted)**</font>
 
 * **<font color="#FA8072">[MM] COMPACT: Content-aware Multipath Live Video Streaming for Online Classes using Video Tiles </font>**\
 **<u>Shubham Chaudhary</u>**, Navneet Mishra, Keshav Gambhir, Tanmay Rajore, Arani Bhattacharya, Mukulika
 Maity\
-<font color="#3498DB"> In the Proceedings of the 32nd ACM International Conference on Multimedia (MM) to be held in Melbourne, Australia </font><font style="float:right">**(Submitted)**</font>
+<font color="#3498DB"> In the Proceedings of the 32nd ACM International Conference on Multimedia (MM'24) to be held in Melbourne, Australia </font><font style="float:right">**(Submitted)**</font>
 <!-- <button style=
         "background-color: #82E0AA ; color: white;" name="pdfbutton"
         onclick="http://www.google.com">PDF</button>
@@ -34,7 +38,7 @@ Maity\
 Surveillance </font>**\
 **<u>Shubham Chaudhary</u>**, Aryan Taneja, Anjali Singh, Purbasha Roy, Sohum Sikdar, Mukulika Maity, Arani
 Bhattacharya\
-<font color="#3498DB"> In the Proceedings of the 2024 USENIX Annual Technical Conference (ATC) to be held in Santa Clara, CA, USA </font>\
+<font color="#3498DB"> In the Proceedings of the 2024 USENIX Annual Technical Conference (ATC'24) held in Santa Clara, CA, USA </font>\
 <button style=
         "background-color: #669900 ; color: white;" name="pdfbutton"
         onclick=" window.open('https://www.usenix.org/conference/atc24/presentation/chaudhary', '_blank'); return false;">Paper & Slides</button>
@@ -55,7 +59,7 @@ Bhattacharya\
 * **<font color="#FA8072">[COMSNETS] NATIVE: Network Aggregation based Tiled Live Video Streaming </font>**\
 Keshav Gambhir, Tanmay Rajore, **<u>Shubham Chaudhary</u>**, Taral Jain, Avishi Gupta, Mukulika Maity, Arani
 Bhattacharya\
-<font color="#3498DB"> Demo Paper in Proceedings of International Conference on COMmunication Systems & NETworkS (COMSNETS) held in 2023, Bangalore, India </font><font style="float:right">**(Published)**</font>\
+<font color="#3498DB"> Demo Paper in Proceedings of International Conference on COMmunication Systems & NETworkS (COMSNETS'23) held in Bangalore, India </font><font style="float:right">**(Published)**</font>\
 <button style=
         "background-color: #669900 ; color: white;" name="codebutton"
         onclick=" window.open('https://ieeexplore.ieee.org/abstract/document/10041371', '_blank'); return false;">Paper</button><details> <summary>Abstract</summary>    
@@ -71,7 +75,8 @@ Bhattacharya\
 
 * **<font color="#FA8072">[COMSNETS] VISTA: Fast and Efficient Traffic Surveillance by Tile Sampling </font>**\
 **<u>Shubham Chaudhary</u>**, Aryan Taneja, Anjali Singh, Mukulika Maity, Arani Bhattacharya\
-<font color="#3498DB"> In Proceedings of the Workshop on Last-mile Challenges and Standardization Opportunities in Smart Infrastructure (LastMileS) in conjunction with International Conference on COMmunication Systems & NETworkS (COMSNETS) held in 2022, Bangalore, India </font><font style="float:right">**(Accepted)**</font>
+<font color="#3498DB"> In Proceedings of the Workshop on Last-mile Challenges and Standardization Opportunities in Smart Infrastructure (LastMileS) in conjunction with International Conference on COMmunication Systems & NETworkS (COMSNETS'22) held in Bangalore, India </font><font style="float:right">**(Accepted)**</font>\
+<font color="ffa833">*Best Paper Award*</font>
 
 [Google Scholar](https://scholar.google.com/citations?user=zjqLCUsAAAAJ&hl=en)
 
