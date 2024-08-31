@@ -37,7 +37,7 @@ Bhattacharya\
 <font color="#3498DB"> In the Proceedings of the 2024 USENIX Annual Technical Conference (ATC) to be held in Santa Clara, CA, USA </font>\
 <button style=
         "background-color: #669900 ; color: white;" name="pdfbutton"
-        onclick=" window.open('https://www.usenix.org/conference/atc24/presentation/chaudhary', '_blank'); return false;">PDF & Slides</button>
+        onclick=" window.open('https://www.usenix.org/conference/atc24/presentation/chaudhary', '_blank'); return false;">Paper & Slides</button>
 <button style=
         "background-color: #A569BD ; color: white;" name="codebutton"
         onclick=" window.open('https://github.com/shubhamchdhary/TileClipper', '_blank'); return false;">CODE</button><font style="float:right">**(Accepted)**</font>
@@ -58,7 +58,7 @@ Bhattacharya\
 <font color="#3498DB"> Demo Paper in Proceedings of International Conference on COMmunication Systems & NETworkS (COMSNETS) held in 2023, Bangalore, India </font><font style="float:right">**(Published)**</font>\
 <button style=
         "background-color: #669900 ; color: white;" name="codebutton"
-        onclick=" window.open('https://ieeexplore.ieee.org/abstract/document/10041371', '_blank'); return false;">PDF</button><details> <summary>Abstract</summary>    
+        onclick=" window.open('https://ieeexplore.ieee.org/abstract/document/10041371', '_blank'); return false;">Paper</button><details> <summary>Abstract</summary>    
     |  | 
     | -------- |
     <p align="justify">The COVID-19 pandemic has forced most interactions to move to online space, starting from online lectures, conferences in hybrid mode, and work-from-home office works. Hence, it is essential for live video streaming to be reliable and provide a good quality of experience (QoE) to users. However, in large sections of the world, the cellular network is not reliable enough to be used for online participation in such events. To quantify this problem, we first measure the QoE in terms oflag, video resolution, and dropped calls on a popular video conferencing platform Google Meet over three different cellular ISPs in New Delhi, India. We observe significantly worse quality of experience metrics compared to a study recently performed in the US. To mitigate this problem, we propose NATIVE (Network Aggregation-based Tiled lIve Video strEaming), a system of aggregating the cellular network connectivity using a secondary or helper device in the vicinity trusted by the user. The implementation of NATIVE uses tiled encoding of video, where the video frames are divided into rectangular units known as tiles. All the tiles are divided into two subsets which are scheduled independently via the available network interfaces depending on its importance. The receiver device receives video segments from the two network paths and stitches back the tiles in them to play. We show the demo of NATIVE using two laptops and a cloud server where the server acts as a streamer
