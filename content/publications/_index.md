@@ -36,11 +36,8 @@ Surveillance </font>**\
 Bhattacharya\
 <font color="#3498DB"> In the Proceedings of the 2024 USENIX Annual Technical Conference (ATC) to be held in Santa Clara, CA, USA </font>\
 <button style=
-        "background-color: #82E0AA ; color: white;" name="pdfbutton"
-        onclick="">PDF</button>
-<button style=
-        "background-color: #F5B041 ; color: white;" name="pptbutton"
-        onclick="">PPT</button>
+        "background-color: #669900 ; color: white;" name="pdfbutton"
+        onclick="location.href='https://www.usenix.org/conference/atc24/presentation/chaudhary';">PDF & Slides</button>
 <button style=
         "background-color: #A569BD ; color: white;" name="codebutton"
         onclick="location.href='https://github.com/shubhamchdhary/TileClipper';">CODE</button><font style="float:right">**(Accepted)**</font>
@@ -60,7 +57,7 @@ Keshav Gambhir, Tanmay Rajore, **<u>Shubham Chaudhary</u>**, Taral Jain, Avishi 
 Bhattacharya\
 <font color="#3498DB"> Demo Paper in Proceedings of International Conference on COMmunication Systems & NETworkS (COMSNETS) held in 2023, Bangalore, India </font><font style="float:right">**(Published)**</font>\
 <button style=
-        "background-color: #A569BD ; color: white;" name="codebutton"
+        "background-color: #669900 ; color: white;" name="codebutton"
         onclick="location.href='https://ieeexplore.ieee.org/abstract/document/10041371';">PDF</button><details> <summary>Abstract</summary>    
     |  | 
     | -------- |
