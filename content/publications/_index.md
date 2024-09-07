@@ -8,10 +8,13 @@ description: ""
 ### 2024 
 
 ---
-* **<font color="#FA8072">[COMPASS] Network Architecture Search for Sustainable Traffic
-Surveillance</font>**\
-**<u>Shubham Chaudhary</u>** and Arani Bhattacharya\
-<font color="#3498DB">  Poster in Doctoral Consortium at the 7th ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS'24) held in Delhi, India </font><font style="float:right">**(Accepted)**</font>
+* **<font color="#FA8072">[S3 @ MobiCom] Scalable and Sustainable Video Analytics on Edge using Sensor Clustering</font>**\
+**<u>Shubham Chaudhary</u>**, Arani Bhattacharya, Saket Anand, Aruna Balasubramanian\
+<font color="#3498DB"> In Proceedings of the 15th ACM Wireless of the Students, by the Students, and for the Students Workshop (S3) in conjuction with the 30th Annual International Conference on Mobile Computing and Networking (MobiCom'24) to be held in Washington, D.C., USA </font><font style="float:right">**(Accepted)**</font>
+
+* **<font color="#FA8072">[COMPASS] Network Architecture Search for Sustainable Traffic Surveillance</font>**\
+**<u>Shubham Chaudhary</u>**, Arani Bhattacharya\
+<font color="#3498DB"> Poster in Doctoral Consortium at the 7th ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS'24) held in Delhi, India </font><font style="float:right">**(Accepted)**</font>
 
 * **<font color="#FA8072">[MM] COMPACT: Content-aware Multipath Live Video Streaming for Online Classes using Video Tiles </font>**\
 **<u>Shubham Chaudhary</u>**, Navneet Mishra, Keshav Gambhir, Tanmay Rajore, Arani Bhattacharya, Mukulika

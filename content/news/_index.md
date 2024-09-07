@@ -4,6 +4,14 @@ description: ""
 ---
 
 ## What's new?
+* <span style="color: #3498DB;">[Sept 2024]</span>
+Our paper got accepted for publication at <a href="https://s32024.smartnets.yale.edu/index.html ">S3 Workshop in conjunction with MobiCom'24</a> :clap: :slightly_smiling_face:.
+<br> <br> 
+
+* <span style="color: #3498DB;">[Sept 2024]</span>
+Got the best TA award. Thanks a ton my beloved IIITD :slightly_smiling_face:.
+<br> <br> 
+
 * <span style="color: #3498DB;">[July 2024]</span>
 Joined Stony Brook University as Visiting Research Scholar for this fall to work with <a href="https://www3.cs.stonybrook.edu/~arunab/">Dr. Aruna Balasubramanian</a>. 
 <br> <br> 
@@ -22,6 +30,9 @@ I've received TiH-iHub Anubhuti’s CHANAKYA Doctoral Fellowship for pursuing re
 <br> <br> 
 
 * <span style="color: #3498DB;">[May 2024]</span> Our TileClipper paper got accepted for publication at USENIX ATC. :clap: :partying_face:
+<br> <br> 
+
+* <span style="color: #3498DB;">[April 2024]</span> Our preliminary work got accepted at <a href="https://compass.acm.org/doctoral-and-masters-consortium/">Doctoral Consortium of ACM COMPASS 2024</a>. 
 <br> <br> 
 
 * <span style="color: #3498DB;">[Dec 2023]</span> Gave my PhD Comprehensive Exam.
