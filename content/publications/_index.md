@@ -8,21 +8,10 @@ description: ""
 ### 2024 
 
 ---
-* **<font color="#FA8072">[S3 @ MobiCom] Scalable and Sustainable Video Analytics on Edge using Sensor Clustering</font>**\
-**<u>Shubham Chaudhary</u>**, Arani Bhattacharya, Saket Anand, Aruna Balasubramanian\
-<font color="#3498DB"> In Proceedings of the 15th ACM Wireless of the Students, by the Students, and for the Students Workshop (S3) in conjuction with the 30th Annual International Conference on Mobile Computing and Networking (MobiCom'24) to be held in Washington, D.C., USA </font><font style="float:right">**(Accepted)**</font><details> <summary>Abstract</summary><p align="justify">
-        The proliferation of video analytics in applications like autonomous driving, traffic surveillance, and teleoperated vehicles requires on-premise (on edge) execution of deep learning models to meet latency requirements and curb bandwidth usage by limiting frequent offloading of inference tasks. However, constrained by the compute and power availability on the edge, a cheaper model is typically deployed. These shallower models have two major associated problems: 1) using the same model for all cameras/vehicles gives inconsistent accuracy, and 2) trained models are prone to data drift. In this work, we propose to address these problems using two strategies. The first strategy is to intelligently assign individual models to each camera/vehicle by clustering the ones with similar visual scenes to reduce the number of allocated models. Second, to circumvent the data drift, we retrain the model assigned to the cluster, which undergoes accuracy deviation.</p>
-    </details>  
-
-
-* **<font color="#FA8072">[COMPASS] Network Architecture Search for Sustainable Traffic Surveillance</font>**\
-**<u>Shubham Chaudhary</u>**, Arani Bhattacharya\
-<font color="#3498DB"> Poster in Doctoral Consortium at the 7th ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS'24) held in Delhi, India </font><font style="float:right">**(Accepted)**</font>
-
-* **<font color="#FA8072">[MM] COMPACT: Content-aware Multipath Live Video Streaming for Online Classes using Video Tiles </font>**\
+* **<font color="#FA8072">[MMSys] COMPACT: Content-aware Multipath Live Video Streaming for Online Classes using Video Tiles </font>**\
 **<u>Shubham Chaudhary</u>**, Navneet Mishra, Keshav Gambhir, Tanmay Rajore, Arani Bhattacharya, Mukulika
 Maity\
-<font color="#3498DB"> In the Proceedings of the 32nd ACM International Conference on Multimedia (MM'24) to be held in Melbourne, Australia </font><font style="float:right">**(Submitted)**</font>
+<font color="#3498DB"> In the Proceedings of the 16th ACM Multimedia Systems Conference (MMSys’25) to be held in Stellenbosch, South Africa. </font><font style="float:right">**(Submitted)**</font>
 <!-- <button style=
         "background-color: #82E0AA ; color: white;" name="pdfbutton"
         onclick="http://www.google.com">PDF</button>
@@ -39,6 +28,17 @@ Maity\
         This is the content of the collapsible section. You can include any Markdown-formatted text, lists, or code here.</p>
         </details>     -->
 <!-- <br></br> -->
+
+* **<font color="#FA8072">[S3 @ MobiCom] Scalable and Sustainable Video Analytics on Edge using Sensor Clustering</font>**\
+**<u>Shubham Chaudhary</u>**, Arani Bhattacharya, Saket Anand, Aruna Balasubramanian\
+<font color="#3498DB"> In Proceedings of the 15th ACM Wireless of the Students, by the Students, and for the Students Workshop (S3) in conjuction with the 30th Annual International Conference on Mobile Computing and Networking (MobiCom'24) to be held in Washington, D.C., USA </font><font style="float:right">**(Accepted)**</font><details> <summary>Abstract</summary><p align="justify">
+        The proliferation of video analytics in applications like autonomous driving, traffic surveillance, and teleoperated vehicles requires on-premise (on edge) execution of deep learning models to meet latency requirements and curb bandwidth usage by limiting frequent offloading of inference tasks. However, constrained by the compute and power availability on the edge, a cheaper model is typically deployed. These shallower models have two major associated problems: 1) using the same model for all cameras/vehicles gives inconsistent accuracy, and 2) trained models are prone to data drift. In this work, we propose to address these problems using two strategies. The first strategy is to intelligently assign individual models to each camera/vehicle by clustering the ones with similar visual scenes to reduce the number of allocated models. Second, to circumvent the data drift, we retrain the model assigned to the cluster, which undergoes accuracy deviation.</p>
+    </details>  
+
+
+* **<font color="#FA8072">[COMPASS] Network Architecture Search for Sustainable Traffic Surveillance</font>**\
+**<u>Shubham Chaudhary</u>**, Arani Bhattacharya\
+<font color="#3498DB"> Poster in Doctoral Consortium at the 7th ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS'24) held in Delhi, India </font><font style="float:right">**(Accepted)**</font>
 
 * **<font color="#FA8072">[ATC] TileClipper: Lightweight Selection of Regions of Interest from Videos for Traffic
 Surveillance </font>**\

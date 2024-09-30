@@ -81,7 +81,7 @@ params:
             # - name: Teaching
             #   url: teaching/
             - name: CV
-              url: https://drive.google.com/file/d/1GCNxzsPkhO4APiui7cVFH1CPUMm2ycCp/view?usp=sharing
+              url: https://drive.google.com/file/d/1GCNxzsPkhO4APiui7cVFH1CPUMm2ycCp/view?usp=drive_link
 
     socialIcons:
         - name: Email
