@@ -4,10 +4,10 @@ description: ""
 ---
 
 ## What's new?
-* <p align="justify" style="margin-bottom:0"><span style="color: #3498DB;">[Nov 2024]</span> Attending MobiCom'24 to present our <a href="https://s32024.smartnets.yale.edu/index.html ">S3 Workshop paper</a> titled "Scalable and Sustainable Video Analytics on Edge using Sensor Clustering" :clap: :slightly_smiling_face:.</p>
+* <p align="justify"><span style="color: #3498DB;">[Nov 2024]</span> Attending MobiCom'24 to present our <a href="https://s32024.smartnets.yale.edu/index.html ">S3 Workshop paper</a> titled "Scalable and Sustainable Video Analytics on Edge using Sensor Clustering" :clap: :slightly_smiling_face:.</p>
 <br> 
 
-* <p align="justify" style="margin-bottom:0"><span style="color: #3498DB;">[Sept 2024]</span> Our paper got accepted for publication at <a href="https://s32024.smartnets.yale.edu/index.html ">S3 Workshop in conjunction with MobiCom'24</a> :clap: :slightly_smiling_face:.</p>
+* <p align="justify"><span style="color: #3498DB;">[Sept 2024]</span> Our paper got accepted for publication at <a href="https://s32024.smartnets.yale.edu/index.html ">S3 Workshop in conjunction with MobiCom'24</a> :clap: :slightly_smiling_face:.</p>
 <br> 
 
 * <p align="justify"><span style="color: #3498DB;">[Sept 2024]</span> Got the best TA award. Thanks a ton my beloved IIITD :slightly_smiling_face:.</p>
