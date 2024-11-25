@@ -25,7 +25,7 @@ menu:
         #   url: teaching/
         #   weight: 4
         - name: CV
-          url: /CV_.pdf
+          url: /cv.pdf
           weight: 4
 
 params:
@@ -81,7 +81,7 @@ params:
             # - name: Teaching
             #   url: teaching/
             - name: CV
-              url: /CV_.pdf
+              url: cv.pdf
 
     socialIcons:
         - name: Email
