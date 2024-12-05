@@ -4,7 +4,7 @@ description: ""
 ---
 
 ## What's new?
-* <p align="justify"><span style="color: #3498DB;">[Nov 2024]</span> Attending MobiCom'24 to present our <a href="https://s32024.smartnets.yale.edu/index.html ">S3 Workshop paper</a> titled "Scalable and Sustainable Video Analytics on Edge using Sensor Clustering" :clap: :slightly_smiling_face:.</p>
+* <p align="justify"><span style="color: #3498DB;">[Nov 2024]</span> Attending MobiCom'24 to present our <a href="https://s32024.smartnets.yale.edu/index.html">S3 Workshop paper</a> titled <a href="https://dl.acm.org/doi/10.1145/3636534.3695902">Scalable and Sustainable Video Analytics on Edge using Sensor Clustering</a> :clap: :slightly_smiling_face:.</p>
 <br> 
 
 * <p align="justify"><span style="color: #3498DB;">[Sept 2024]</span> Our paper got accepted for publication at <a href="https://s32024.smartnets.yale.edu/index.html ">S3 Workshop in conjunction with MobiCom'24</a> :clap: :slightly_smiling_face:.</p>
