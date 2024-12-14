@@ -6,10 +6,10 @@ tags: ["DNN","Continual Learning","Knowledge Distillation", "Accuracy Drift"]
 author: ["Shubham Chaudhary", "Arani Bhattacharya", "Saket Anand", "Aruna Balasubramanian"]
 # description: "." 
 summary: "[Work In Progress] This project aims to relent the accuracy drift problem in compressed DNNs emplyed on edge by utilizing continual learning paradigm." 
-# cover:
-#     image: "Illustration.png"
+cover:
+    image: "camera_cluster.jpg"
 #     alt: "TileClipper"
-#     relative: false
+    relative: false
 # editPost:
 #     URL: "https://github.com/shubhamchdhary/TileClipper"
 #     Text: "USENIX ATC 2024"
@@ -33,12 +33,11 @@ In this work, we propose to address these problems using two strategies. The fir
 ---
 
 ### Papers
-* S2 @ MobiCom'24
+* S3 @ MobiCom'24
 
 ---
 
-### NATIVE
-##### Proposed Architecture
+### Proposed Approach
 ![](camera_cluster.jpg)
 
 ---
