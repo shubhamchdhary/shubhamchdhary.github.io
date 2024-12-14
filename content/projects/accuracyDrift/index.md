@@ -2,7 +2,7 @@
 title: "Scalable and Sustainable Video Analytics on Edge using Sensor Clustering" 
 # date: 2024-05-01
 # lastmod: 2024-05-08
-tags: ["DNN","Continual Learning","Knowledge Distillation", "Accuracy Drift]
+tags: ["DNN","Continual Learning","Knowledge Distillation", "Accuracy Drift"]
 author: ["Shubham Chaudhary", "Arani Bhattacharya", "Saket Anand", "Aruna Balasubramanian"]
 # description: "." 
 summary: "[Work In Progress] This project aims to relent the accuracy drift problem in compressed DNNs emplyed on edge by utilizing continual learning paradigm." 
@@ -55,6 +55,7 @@ publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
 url = {https://doi.org/10.1145/3636534.3695902},
 doi = {10.1145/3636534.3695902},
+
 booktitle = {Proceedings of the 30th Annual International Conference on Mobile Computing and Networking},
 pages = {2239–2241},
 numpages = {3},
