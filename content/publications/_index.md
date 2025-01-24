@@ -11,7 +11,7 @@ description: ""
 * **<p align="justify"><font color="#FA8072">[MMSys] COMPACT: Content-aware Multipath Live Video Streaming for Online Classes using Video Tiles </font>**\
 **<u>Shubham Chaudhary</u>**, Navneet Mishra, Keshav Gambhir, Tanmay Rajore, Arani Bhattacharya, Mukulika
 Maity\
-<font color="#3498DB"> In the Proceedings of the 16th ACM Multimedia Systems Conference (MMSys’25) to be held in Stellenbosch, South Africa. </font><font style="float:right">**(Submitted)**</font></p>
+<font color="#3498DB"> In the Proceedings of the 16th ACM Multimedia Systems Conference (MMSys’25) to be held in Stellenbosch, South Africa. </font><font style="float:right">**(Accepted)**</font></p>
 <!-- <button style=
         "background-color: #82E0AA ; color: white;" name="pdfbutton"
         onclick="http://www.google.com">PDF</button>
