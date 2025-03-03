@@ -7,7 +7,7 @@ description: ""
 * <p align="justify"><span style="color: #3498DB;">[Feb 2025]</span> Attending <a href="https://event.india.acm.org/arcs/home/">ACM ARCS 2025</a> and <a href="https://event.india.acm.org/annualevent/home/">ACM Annual India Event 2025</a>.</p>
 <p class="" style="margin: 2px;"></p>
 
-* <p align="justify"><span style="color: #3498DB;">[Jan 2025]</span> Our video streaming (COMPACT) paper got accepted for publication at <a href="https://2025.acmmmsys.org/">MMSysy'25</a> :clap: :partying_face:.</p>
+* <p align="justify"><span style="color: #3498DB;">[Jan 2025]</span> Our video streaming (COMPACT) paper got accepted for publication at <a href="https://2025.acmmmsys.org/">MMSys'25</a> :clap: :partying_face:.</p>
 <p class="" style="margin: 2px;"></p>
 
 * <p align="justify"><span style="color: #3498DB;">[Jan 2025]</span> Returned back to India from my research visit at Strony Brook :slightly_smiling_face:.</p>
