@@ -14,7 +14,7 @@ Maity\
 <font color="#3498DB"> In the Proceedings of the 16th ACM Multimedia Systems Conference (MMSys’25) to be held in Stellenbosch, South Africa. </font><font style="float:right">**(Published)**</font>\
 <button style=
         "background-color: #669900 ; color: white;" name="pdfbutton"
-        onclick=" window.open(https://dl.acm.org/doi/10.1145/3712676.3714451', '_blank'); return false;">Paper</button>
+        onclick=" window.open('https://dl.acm.org/doi/10.1145/3712676.3714451', '_blank'); return false;">Paper</button>
 <button style=
         "background-color: #A569BD ; color: white;" name="codebutton"
         onclick=" window.open('https://github.com/shubhamchdhary/COMPACT', '_blank'); return false;">Code</button>
