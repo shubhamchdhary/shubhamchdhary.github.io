@@ -11,23 +11,17 @@ description: ""
 * **<p align="justify"><font color="#FA8072">[MMSys] COMPACT: Content-aware Multipath Live Video Streaming for Online Classes using Video Tiles </font>**\
 **<u>Shubham Chaudhary</u>**, Navneet Mishra, Keshav Gambhir, Tanmay Rajore, Arani Bhattacharya, Mukulika
 Maity\
-<font color="#3498DB"> In the Proceedings of the 16th ACM Multimedia Systems Conference (MMSys’25) to be held in Stellenbosch, South Africa. </font><font style="float:right">**(Accepted)**</font></p>
-<!-- <button style=
-        "background-color: #82E0AA ; color: white;" name="pdfbutton"
-        onclick="http://www.google.com">PDF</button>
+<font color="#3498DB"> In the Proceedings of the 16th ACM Multimedia Systems Conference (MMSys’25) to be held in Stellenbosch, South Africa. </font><font style="float:right">**(Published)**</font>\
 <button style=
-        "background-color: #F5B041 ; color: white;" name="pptbutton"
-        onclick="http://www.google.com">PPT</button>
+        "background-color: #669900 ; color: white;" name="pdfbutton"
+        onclick=" window.open(https://dl.acm.org/doi/10.1145/3712676.3714451', '_blank'); return false;">Paper</button>
 <button style=
         "background-color: #A569BD ; color: white;" name="codebutton"
-        onclick="http://www.google.com">CODE</button>
+        onclick=" window.open('https://github.com/shubhamchdhary/COMPACT', '_blank'); return false;">Code</button>
         <details> <summary>Abstract</summary>
-    |  | 
-    | -------- |
-    <p align="justify">
-        This is the content of the collapsible section. You can include any Markdown-formatted text, lists, or code here.</p>
-        </details>     -->
-<!-- <br></br> -->
+        <summary>Abstract</summary><p align="justify">
+        The growing popularity of live online classes, even in remote areas, stresses the need for a good and seamless quality of experience to enhance learning. However, these bandwidth-hungry applications challenge the current cellular networks to maintain consistent bandwidth and latency. In this work, we, therefore, propose using the collaboration of multiple devices with their individual cellular networks to support such live video streaming. We design a content-aware system COMPACT that splits video into foreground and background using video tiles (independently encoded spatial blocks) and streams them over different paths. COMPACT depends on its scheduler, which exhaustively searches for the best quality based on the network estimates. We extensively evaluate our system using network traces while walking and traveling on the bus or car. Compared to the single path, COMPACT manages to reduce the median stall and E2E lag by 70.6% and 28.57%, and the tail stall and lag by 83.9% and ≈ 80% on a bus trace. Furthermore, we performed a live experiment to test COMPACT on the actual cellular network.</p>
+        </details></p>  
 
 * **<p align="justify"><font color="#FA8072">[S3 @ MobiCom] Scalable and Sustainable Video Analytics on Edge using Sensor Clustering</font>**\
 **<u>Shubham Chaudhary</u>**, Arani Bhattacharya, Saket Anand, Aruna Balasubramanian\
@@ -53,8 +47,11 @@ Bhattacharya\
         "background-color: #669900 ; color: white;" name="pdfbutton"
         onclick=" window.open('https://www.usenix.org/conference/atc24/presentation/chaudhary', '_blank'); return false;">Paper & Slides</button>
 <button style=
+        "background-color: #ed3d17 ; color: white;" name="pdfbutton"
+        onclick=" window.open('https://www.usenix.org/conference/atc24/presentation/chaudhary', '_blank'); return false;">Video</button>
+<button style=
         "background-color: #A569BD ; color: white;" name="codebutton"
-        onclick=" window.open('https://github.com/shubhamchdhary/TileClipper', '_blank'); return false;">CODE</button><font style="float:right">**(Published)**</font>
+        onclick=" window.open('https://github.com/shubhamchdhary/TileClipper', '_blank'); return false;">Code</button><font style="float:right">**(Published)**</font>
         <details> <summary>Abstract</summary>
     <p align="justify">With traffic surveillance increasingly used thousands of cameras on roads send video feeds to cloud servers to run computer vision algorithms, requiring high bandwidth. State-of-the-art techniques reduce the bandwidth requirement by either sending a  limited number of frames/pixels/regions or relying on re-encoding the important parts of the video. This imposes significant overhead on both the camera side and server side compute as re-encoding is expensive.  In this work, we propose TileClipper, a system that utilizes tile sampling, where a limited number of rectangular areas within the frames, known as tiles, are sent to the server. TileClipper selects the tiles adaptively by utilizing its correlation with the tile bitrates. We evaluate TileClipper on different datasets having 55 videos in total to show that, on average, our technique reduces approx.22% of data sent to the cloud while providing a detection accuracy of 92% with minimal calibration and compute compared to prior works. We show real-time tile filtering of TileClipper even on cheap edge devices like Raspberry Pi 4 and nVidia Jetson Nano. We further create a live deployment of TileClipper to show that it provides over 87% detection accuracy and over 55% bandwidth savings.</p>
     </details></p>
