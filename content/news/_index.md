@@ -4,6 +4,9 @@ description: ""
 ---
 
 ## What's new?
+* <p align="justify"><span style="color: #3498DB;">[April 2025]</span> Attending <a href="https://2025.acmmmsys.org/">ACM MMSys'25</a> to present our paper <a href="https://dl.acm.org/doi/10.1145/3712676.3714451">COMPACT</a>:clap: :slightly_smiling_face:.</p>
+<p class="" style="margin: 2px;"></p>
+
 * <p align="justify"><span style="color: #3498DB;">[Feb 2025]</span> Attending <a href="https://event.india.acm.org/arcs/home/">ACM ARCS 2025</a> and <a href="https://event.india.acm.org/annualevent/home/">ACM Annual India Event 2025</a>.</p>
 <p class="" style="margin: 2px;"></p>
 
