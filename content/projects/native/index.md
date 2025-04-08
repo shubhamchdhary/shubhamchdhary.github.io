@@ -48,7 +48,6 @@ summary: "This project aims to improve the qualtity of experience (QoE) of live 
 ### Citation
 
 ```BibTeX
-```bibtex
 @inproceedings{compact,
 author = {Chaudhary, Shubham and Mishra, Navneet and Gambhir, Keshav and Rajore, Tanmay and Bhattacharya, Arani and Maity, Mukulika},
 title = {COMPACT: Content-aware Multipath Live Video Streaming for Online Classes using Video Tiles},
