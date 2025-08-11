@@ -6,12 +6,25 @@ description: ""
 # Publications
 
 ### 2025
-
 ---
+* **<p align="justify"><font color="#FA8072">[BuildSys] Pipette: Adaptive Selection of Relevant Samples for Continual Learning in Autonomous Vehicles </font>**\
+**<u>Shubham Chaudhary</u>**, Saket Anand, Aruna Balasubramanian, Arani Bhattacharya\
+<font color="#3498DB"> In the Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys'25) to be held in Golden, Colorado, USA. </font><font style="float:right">**(Submitted)**</font>\
+<!-- <button style=
+        "background-color: #669900 ; color: white;" name="pdfbutton"
+        onclick=" window.open('https://dl.acm.org/doi/10.1145/3712676.3714451', '_blank'); return false;">Paper</button>
+<button style=
+        "background-color: #A569BD ; color: white;" name="codebutton"
+        onclick=" window.open('https://github.com/shubhamchdhary/COMPACT', '_blank'); return false;">Code</button>
+        <details>
+        <summary>Abstract</summary><p align="justify">
+        Add here</p>
+        </details></p>  -->
+
 * **<p align="justify"><font color="#FA8072">[MMSys] COMPACT: Content-aware Multipath Live Video Streaming for Online Classes using Video Tiles </font>**\
 **<u>Shubham Chaudhary</u>**, Navneet Mishra, Keshav Gambhir, Tanmay Rajore, Arani Bhattacharya, Mukulika
 Maity\
-<font color="#3498DB"> In the Proceedings of the 16th ACM Multimedia Systems Conference (MMSys’25) to be held in Stellenbosch, South Africa. </font><font style="float:right">**(Published)**</font>\
+<font color="#3498DB"> In the Proceedings of the 16th ACM Multimedia Systems Conference (MMSys’25) held in Stellenbosch, South Africa. </font><font style="float:right">**(Published)**</font>\
 <button style=
         "background-color: #669900 ; color: white;" name="pdfbutton"
         onclick=" window.open('https://dl.acm.org/doi/10.1145/3712676.3714451', '_blank'); return false;">Paper</button>
@@ -28,7 +41,7 @@ Maity\
 ---
 * **<p align="justify"><font color="#FA8072">[S3 @ MobiCom] Scalable and Sustainable Video Analytics on Edge using Sensor Clustering</font>**\
 **<u>Shubham Chaudhary</u>**, Arani Bhattacharya, Saket Anand, Aruna Balasubramanian\
-<font color="#3498DB"> In Proceedings of the 15th ACM Wireless of the Students, by the Students, and for the Students Workshop (S3) in conjuction with the 30th Annual International Conference on Mobile Computing and Networking (MobiCom'24) to be held in Washington, D.C., USA </font><font style="float:right">**(Published)**</font>\
+<font color="#3498DB"> In Proceedings of the 15th ACM Wireless of the Students, by the Students, and for the Students Workshop (S3) in conjuction with the 30th Annual International Conference on Mobile Computing and Networking (MobiCom'24) held in Washington, D.C., USA </font><font style="float:right">**(Published)**</font>\
 <button style=
         "background-color: #669900 ; color: white;" name="pdfbutton"
         onclick=" window.open('https://dl.acm.org/doi/10.1145/3636534.3695902', '_blank'); return false;">Paper</button>
