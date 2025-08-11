@@ -4,6 +4,9 @@ description: ""
 ---
 
 ## What's new?
+* <p align="justify"><span style="color: #3498DB;">[July 2025]</span> Got student travel grant to attend ACM SIGCOMM 2025</p>
+<p class="" style="margin: 2px;"></p>
+
 * <p align="justify"><span style="color: #3498DB;">[April 2025]</span> Joined CoNext'25 Artifact Evaluation Committee</p>
 <p class="" style="margin: 2px;"></p>
 
