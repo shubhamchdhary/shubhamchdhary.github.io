@@ -9,7 +9,8 @@ description: ""
 ---
 * **<p align="justify"><font color="#FA8072">[BuildSys] Pipette: Adaptive Selection of Relevant Samples for Continual Learning in Autonomous Vehicles </font>**\
 **<u>Shubham Chaudhary</u>**, Saket Anand, Aruna Balasubramanian, Arani Bhattacharya\
-<font color="#3498DB"> In the Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys'25) to be held in Golden, Colorado, USA. </font><font style="float:right">**(Submitted)**</font>\
+<font color="#3498DB"> In the Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys'25) to be held in Golden, Colorado, USA. </font><font style="float:right">**(Submitted)**</font>
+<!-- \ -->
 <!-- <button style=
         "background-color: #669900 ; color: white;" name="pdfbutton"
         onclick=" window.open('https://dl.acm.org/doi/10.1145/3712676.3714451', '_blank'); return false;">Paper</button>
