@@ -4,7 +4,7 @@ description: ""
 ---
 
 ## What's new?
-* <p align="justify"><span style="color: #3498DB;">[Sept 2025]</span> Got in the best top five talks in RISSE 2025</p>
+* <p align="justify"><span style="color: #3498DB;">[Sept 2025]</span> Got in the best top five talks in RIISE 2025</p>
 <p class="" style="margin: 2px;"></p>
 
 * <p align="justify"><span style="color: #3498DB;">[Sept 2025]</span> Attended ACM SIGCOMM 2025</p>
