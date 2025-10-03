@@ -7,7 +7,7 @@ description: ""
 
 ### 2025
 ---
-* **<p align="justify"><font color="#FA8072">[BuildSys] Pipette: Adaptive Selection of Relevant Samples for Continual Learning in Autonomous Vehicles </font>**\
+<!-- * **<p align="justify"><font color="#FA8072">[BuildSys] Pipette: Adaptive Selection of Relevant Samples for Continual Learning in Autonomous Vehicles </font>**\
 **<u>Shubham Chaudhary</u>**, Saket Anand, Aruna Balasubramanian, Arani Bhattacharya\
 <font color="#3498DB"> In the Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys'25) to be held in Golden, Colorado, USA. </font><font style="float:right">**(Submitted)**</font>
 <!-- \ -->
@@ -20,7 +20,7 @@ description: ""
         <details>
         <summary>Abstract</summary><p align="justify">
         Add here</p>
-        </details></p>  -->
+        </details></p>  --> -->
 
 * **<p align="justify"><font color="#FA8072">[MMSys] COMPACT: Content-aware Multipath Live Video Streaming for Online Classes using Video Tiles </font>**\
 **<u>Shubham Chaudhary</u>**, Navneet Mishra, Keshav Gambhir, Tanmay Rajore, Arani Bhattacharya, Mukulika
