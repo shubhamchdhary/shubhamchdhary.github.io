@@ -20,7 +20,7 @@ description: ""
         <details>
         <summary>Abstract</summary><p align="justify">
         Add here</p>
-        </details></p>  --> -->
+        </details></p>  -->
 
 * **<p align="justify"><font color="#FA8072">[MMSys] COMPACT: Content-aware Multipath Live Video Streaming for Online Classes using Video Tiles </font>**\
 **<u>Shubham Chaudhary</u>**, Navneet Mishra, Keshav Gambhir, Tanmay Rajore, Arani Bhattacharya, Mukulika
