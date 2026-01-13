@@ -4,6 +4,7 @@ description: ""
 ---
 
 # Publications
+[Google Scholar](https://scholar.google.com/citations?user=zjqLCUsAAAAJ&hl=en)
 
 ### 2025
 ---
@@ -98,7 +99,7 @@ Bhattacharya\
 <font color="#3498DB"> In Proceedings of the Workshop on Last-mile Challenges and Standardization Opportunities in Smart Infrastructure (LastMileS) in conjunction with International Conference on COMmunication Systems & NETworkS (COMSNETS'22) held in Bangalore, India </font><font style="float:right">**(Accepted)**</font>\
 <font color="ffa833">*Best Paper Award*</font></p>
 
-[Google Scholar](https://scholar.google.com/citations?user=zjqLCUsAAAAJ&hl=en)
+<!-- [Google Scholar](https://scholar.google.com/citations?user=zjqLCUsAAAAJ&hl=en) -->
 
 --- 
 
