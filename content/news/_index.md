@@ -4,6 +4,9 @@ description: ""
 ---
 
 ## What's new?
+* <p align="justify"><span style="color: #3498DB;">[Jab 2026]</span> Joined MMSys'26 Doctoral Symposium Program Committee</p>
+<p class="" style="margin: 2px;"></p>
+
 * <p align="justify"><span style="color: #3498DB;">[Dec 2025]</span> Joined NSDI'26 Artifact Evaluation Committee</p>
 <p class="" style="margin: 2px;"></p>
 
