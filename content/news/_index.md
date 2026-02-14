@@ -7,22 +7,22 @@ description: ""
 * <p align="justify"><span style="color: #3498DB;">[Feb 2026]</span> Joined MMSys'26 Doctoral Symposium Program Committee</p>
 <p class="" style="margin: 2px;"></p>
 
-* <p align="justify"><span style="color: #3498DB;">[Dec 2025]</span> Joined NSDI'26 Artifact Evaluation Committee</p>
+* <p align="justify"><span style="color: #3498DB;">[Dec 2025]</span> Joined <a href="https://www.usenix.org/conference/nsdi26/call-for-artifacts">NSDI'26 Artifact Evaluation Committee</a></p>
 <p class="" style="margin: 2px;"></p>
 
 * <p align="justify"><span style="color: #3498DB;">[Oct 2025]</span> Exhibited our projects at India Mobile Congress (IMC) 2025</p>
 <p class="" style="margin: 2px;"></p>
 
-* <p align="justify"><span style="color: #3498DB;">[Sept 2025]</span> Got in the best top five talks in RIISE 2025</p>
+* <p align="justify"><span style="color: #3498DB;">[Sept 2025]</span> Got in the best top five talks in <a href="https://iiitd.ac.in/riise2025/#schedule">RIISE 2025</a></p>
 <p class="" style="margin: 2px;"></p>
 
-* <p align="justify"><span style="color: #3498DB;">[Sept 2025]</span> Attended ACM SIGCOMM 2025</p>
+* <p align="justify"><span style="color: #3498DB;">[Sept 2025]</span> Attending ACM SIGCOMM 2025</p>
 <p class="" style="margin: 2px;"></p>
 
-* <p align="justify"><span style="color: #3498DB;">[July 2025]</span> Got student travel grant to attend ACM SIGCOMM 2025</p>
+* <p align="justify"><span style="color: #3498DB;">[July 2025]</span> Got student travel grant to attend ACM SIGCOMM 2025 :clap: :partying_face:</p>
 <p class="" style="margin: 2px;"></p>
 
-* <p align="justify"><span style="color: #3498DB;">[April 2025]</span> Joined CoNext'25 Artifact Evaluation Committee</p>
+* <p align="justify"><span style="color: #3498DB;">[April 2025]</span> Joined <a href="https://conferences.sigcomm.org/co-next/2025/#!/artifact-committee">CoNext'25 Artifact Evaluation Committee</a></p>
 <p class="" style="margin: 2px;"></p>
 
 * <p align="justify"><span style="color: #3498DB;">[April 2025]</span> Joined IMC'25 Shadow TPC</p>
