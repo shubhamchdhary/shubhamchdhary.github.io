@@ -6,6 +6,12 @@ description: ""
 # Publications
 [Google Scholar](https://scholar.google.com/citations?user=zjqLCUsAAAAJ&hl=en)
 
+### 2026
+---
+* **<p align="justify"><font color="#FA8072">[TOMM] Tile-level Multipath Content-aware Live Video Streaming</font>**\
+**<u>Shubham Chaudhary</u>**, Aruba Sood, Navneet Mishra, Keshav Gambhir, Arani Bhattacharya, Mukulika Maity\
+<font color="#3498DB"> In the ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)  </font><font style="float:right">**(Under Review)**</font></p>
+
 ### 2025
 ---
 <!-- * **<p align="justify"><font color="#FA8072">[BuildSys] Pipette: Adaptive Selection of Relevant Samples for Continual Learning in Autonomous Vehicles </font>**\
@@ -26,7 +32,7 @@ description: ""
 * **<p align="justify"><font color="#FA8072">[MMSys] COMPACT: Content-aware Multipath Live Video Streaming for Online Classes using Video Tiles </font>**\
 **<u>Shubham Chaudhary</u>**, Navneet Mishra, Keshav Gambhir, Tanmay Rajore, Arani Bhattacharya, Mukulika
 Maity\
-<font color="#3498DB"> In the Proceedings of the 16th ACM Multimedia Systems Conference (MMSys’25) held in Stellenbosch, South Africa. </font><font style="float:right">**(Published)**</font>\
+<font color="#3498DB"> In the Proceedings of the 16th ACM Multimedia Systems Conference (MMSys’25) held in Stellenbosch, South Africa. </font>\
 <button style=
         "background-color: #669900 ; color: white;" name="pdfbutton"
         onclick=" window.open('https://dl.acm.org/doi/10.1145/3712676.3714451', '_blank'); return false;">Paper</button>
@@ -43,7 +49,7 @@ Maity\
 ---
 * **<p align="justify"><font color="#FA8072">[S3 @ MobiCom] Scalable and Sustainable Video Analytics on Edge using Sensor Clustering</font>**\
 **<u>Shubham Chaudhary</u>**, Arani Bhattacharya, Saket Anand, Aruna Balasubramanian\
-<font color="#3498DB"> In Proceedings of the 15th ACM Wireless of the Students, by the Students, and for the Students Workshop (S3) in conjuction with the 30th Annual International Conference on Mobile Computing and Networking (MobiCom'24) held in Washington, D.C., USA </font><font style="float:right">**(Published)**</font>\
+<font color="#3498DB"> In Proceedings of the 15th ACM Wireless of the Students, by the Students, and for the Students Workshop (S3) in conjuction with the 30th Annual International Conference on Mobile Computing and Networking (MobiCom'24) held in Washington, D.C., USA </font>\
 <button style=
         "background-color: #669900 ; color: white;" name="pdfbutton"
         onclick=" window.open('https://dl.acm.org/doi/10.1145/3636534.3695902', '_blank'); return false;">Paper</button>
@@ -54,7 +60,7 @@ Maity\
 
 * **<p align="justify"><font color="#FA8072">[COMPASS] Network Architecture Search for Sustainable Traffic Surveillance</font>**\
 **<u>Shubham Chaudhary</u>**, Arani Bhattacharya\
-<font color="#3498DB"> Poster in Doctoral Consortium at the 7th ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS'24) held in Delhi, India </font><font style="float:right">**(Accepted)**</font></p>
+<font color="#3498DB"> Poster in Doctoral Consortium at the 7th ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS'24) held in Delhi, India </font></p>
 
 * **<p align="justify"><font color="#FA8072">[ATC] TileClipper: Lightweight Selection of Regions of Interest from Videos for Traffic
 Surveillance </font>**\
@@ -69,7 +75,7 @@ Bhattacharya\
         onclick=" window.open('https://www.youtube.com/watch?v=ZFhBqa0bQIs', '_blank'); return false;">Video</button>
 <button style=
         "background-color: #A569BD ; color: white;" name="codebutton"
-        onclick=" window.open('https://github.com/shubhamchdhary/TileClipper', '_blank'); return false;">Code</button><font style="float:right">**(Published)**</font>
+        onclick=" window.open('https://github.com/shubhamchdhary/TileClipper', '_blank'); return false;">Code</button>
         <details> <summary>Abstract</summary>
     <p align="justify">With traffic surveillance increasingly used thousands of cameras on roads send video feeds to cloud servers to run computer vision algorithms, requiring high bandwidth. State-of-the-art techniques reduce the bandwidth requirement by either sending a  limited number of frames/pixels/regions or relying on re-encoding the important parts of the video. This imposes significant overhead on both the camera side and server side compute as re-encoding is expensive.  In this work, we propose TileClipper, a system that utilizes tile sampling, where a limited number of rectangular areas within the frames, known as tiles, are sent to the server. TileClipper selects the tiles adaptively by utilizing its correlation with the tile bitrates. We evaluate TileClipper on different datasets having 55 videos in total to show that, on average, our technique reduces approx.22% of data sent to the cloud while providing a detection accuracy of 92% with minimal calibration and compute compared to prior works. We show real-time tile filtering of TileClipper even on cheap edge devices like Raspberry Pi 4 and nVidia Jetson Nano. We further create a live deployment of TileClipper to show that it provides over 87% detection accuracy and over 55% bandwidth savings.</p>
     </details></p>
@@ -82,7 +88,7 @@ Bhattacharya\
 * **<p align="justify"><font color="#FA8072">[COMSNETS] NATIVE: Network Aggregation based Tiled Live Video Streaming </font>**\
 Keshav Gambhir, Tanmay Rajore, **<u>Shubham Chaudhary</u>**, Taral Jain, Avishi Gupta, Mukulika Maity, Arani
 Bhattacharya\
-<font color="#3498DB"> Demo Paper in Proceedings of International Conference on COMmunication Systems & NETworkS (COMSNETS'23) held in Bangalore, India </font><font style="float:right">**(Published)**</font>\
+<font color="#3498DB"> Demo Paper in Proceedings of International Conference on COMmunication Systems & NETworkS (COMSNETS'23) held in Bangalore, India </font>\
 <button style=
         "background-color: #669900 ; color: white;" name="codebutton"
         onclick=" window.open('https://ieeexplore.ieee.org/abstract/document/10041371', '_blank'); return false;">Paper</button><details> <summary>Abstract</summary>    
@@ -96,7 +102,7 @@ Bhattacharya\
 
 * **<p align="justify"><font color="#FA8072">[COMSNETS] VISTA: Fast and Efficient Traffic Surveillance by Tile Sampling </font>**\
 **<u>Shubham Chaudhary</u>**, Aryan Taneja, Anjali Singh, Mukulika Maity, Arani Bhattacharya\
-<font color="#3498DB"> In Proceedings of the Workshop on Last-mile Challenges and Standardization Opportunities in Smart Infrastructure (LastMileS) in conjunction with International Conference on COMmunication Systems & NETworkS (COMSNETS'22) held in Bangalore, India </font><font style="float:right">**(Accepted)**</font>\
+<font color="#3498DB"> In Proceedings of the Workshop on Last-mile Challenges and Standardization Opportunities in Smart Infrastructure (LastMileS) in conjunction with International Conference on COMmunication Systems & NETworkS (COMSNETS'22) held in Bangalore, India </font>\
 <font color="ffa833">*Best Paper Award*</font></p>
 
 <!-- [Google Scholar](https://scholar.google.com/citations?user=zjqLCUsAAAAJ&hl=en) -->
