@@ -10,6 +10,12 @@ description: ""
 * <p align="justify"><span style="color: #3498DB;">[Feb 2026]</span> Joined MMSys'26 Doctoral Symposium Program Committee</p>
 <p class="" style="margin: 2px;"></p>
 
+* <p align="justify"><span style="color: #3498DB;">[Jan 2026]</span> Submitted my PhD Thesis</p>
+<p class="" style="margin: 2px;"></p>
+
+* <p align="justify"><span style="color: #3498DB;">[Jan 2026]</span> Attended COMSNETS 2026</p>
+<p class="" style="margin: 2px;"></p>
+
 * <p align="justify"><span style="color: #3498DB;">[Dec 2025]</span> Joined <a href="https://www.usenix.org/conference/nsdi26/call-for-artifacts">NSDI'26 Artifact Evaluation Committee</a></p>
 <p class="" style="margin: 2px;"></p>
 
