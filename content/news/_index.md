@@ -4,6 +4,9 @@ description: ""
 ---
 
 ## What's new?
+* <p align="justify"><span style="color: #3498DB;">[July 2026]</span> Finally, defended my thesis on 13th of July, 2026 :clap: :partying_face:</p>
+<p class="" style="margin: 2px;"></p>
+
 * <p align="justify"><span style="color: #3498DB;">[June 2026]</span> Our extended version of video streaming work (COMPACT) paper got accepted for publication in ACM TOMM :clap: :partying_face:.</p>
 <p class="" style="margin: 2px;"></p>
 
