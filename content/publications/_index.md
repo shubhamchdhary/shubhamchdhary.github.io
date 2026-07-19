@@ -3,6 +3,12 @@ title: "Papers"
 description: ""
 ---
 
+# Patents
+* **<p align="justify"><font color='#FA8072'>[Indian Patent] Method And System Facilitating Data Optimization In A Data Transmission Process </font>**\
+**<u>Shubham Chaudhary</u>**, Aryan Taneja, Anjali Singh, Arani Bhattacharya, Mukulika Maity\
+<font color="#3498DB"> Application Number: 202211028440 </font></p>
+---
+
 # Publications
 [Google Scholar](https://scholar.google.com/citations?user=zjqLCUsAAAAJ&hl=en)
 
@@ -111,7 +117,7 @@ Bhattacharya\
 
 --- 
 
-# Patents
+<!-- # Patents
 * **<p align="justify"><font color='#FA8072'>[Indian Patent] Method And System Facilitating Data Optimization In A Data Transmission Process </font>**\
 **<u>Shubham Chaudhary</u>**, Aryan Taneja, Anjali Singh, Arani Bhattacharya, Mukulika Maity\
-<font color="#3498DB"> Application Number: 202211028440 </font></p>
+<font color="#3498DB"> Application Number: 202211028440 </font></p> -->
