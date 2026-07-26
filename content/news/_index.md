@@ -7,7 +7,7 @@ description: ""
 * <p align="justify"><span style="color: #3498DB;">[July 2026]</span> Finally, defended my thesis on 13th of July, 2026 :clap: :partying_face:</p>
 <p class="" style="margin: 2px;"></p>
 
-* <p align="justify"><span style="color: #3498DB;">[June 2026]</span> Our extended version of video streaming work (COMPACT) paper got accepted for publication in ACM TOMM :clap: :partying_face:.</p>
+* <p align="justify"><span style="color: #3498DB;">[June 2026]</span> Our <a href="https://dl.acm.org/doi/10.1145/3833392">extended version</a> of video streaming work (COMPACT) paper got accepted for publication in ACM TOMM :clap: :partying_face:.</p>
 <p class="" style="margin: 2px;"></p>
 
 * <p align="justify"><span style="color: #3498DB;">[Feb 2026]</span> Our patent out of traffic surveillance work is granted</p>
