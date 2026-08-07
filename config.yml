@@ -57,15 +57,15 @@ params:
           subtitle: <p align="justify">Hi There!
                     
                     <br><br>                    
-                    I'm pursuing my Ph.D. at IIIT Delhi, India in the Dept. of Computer Science & Engineering 
-                    working on the problems related to Autonomous Driving, Edge Computing-based Video Analytics, and Live Video Streaming. 
-                    I'm part of the <a href="https://faculty.iiitd.ac.in/~arani/wise/"><b>WISE Lab @ IIIT Delhi</b></a> supervised by <a href="https://faculty.iiitd.ac.in/~arani/"><b>Dr. Arani Bhattacharya</b></a>.
-                    I was a visiting research scholar in the Dept. of Computer Science at Stony Brook University from July 2024 to Dec 2024 where I got the 
-                    opportunity to work closely with <a href="https://www3.cs.stonybrook.edu/~arunab/"><b>Dr. Aruna Balasubramanian</b></a>.
+                    I recently completed my Ph.D. at IIIT Delhi, India in the Dept. of Computer Science & Engineering. During my PhD, I
+                    worked on the problems related to Autonomous Driving, Edge Computing-based Video Analytics, and Live Video Streaming. 
+                    I was part of the <a href="https://faculty.iiitd.ac.in/~arani/wise/"><b>WISE Lab @ IIIT Delhi</b></a> supervised by <a href="https://faculty.iiitd.ac.in/~arani/"><b>Dr. Arani Bhattacharya</b></a>.
+                    Thanks to IIIT Delhi's overseas fellowship, I got to spent some time (July 2024 to Dec 2024) at Stony Brook University as visiting research scholar in the Dept. of Computer Science. Here, I got the 
+                    opportunity to work closely with <a href="https://www3.cs.stonybrook.edu/~arunab/"><b>Dr. Aruna Balasubramanian</b></a> where we explored the model adaptation problems related to self-driving cars.
                     
                     <br><br>
-                    I completed my Bachelors in Electrical Engineering from Kamla Nehru Institute of Technology Sultanpur, 
-                    a state-owned autonomous college in Uttar Pradesh, India. I watch movies and play badminton to escape from the research chores.</p>
+                    Prior to joining PhD, I completed my Bachelors in Electrical Engineering from Kamla Nehru Institute of Technology Sultanpur, 
+                    a state-owned autonomous college in Uttar Pradesh, India. Irrelevant fact "I watch a lot movies and love playing badminton" :).</p>
                 
           imageUrl: "mypic_cropped.JPG"
           imageWidth: 200
