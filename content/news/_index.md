@@ -4,6 +4,8 @@ description: ""
 ---
 
 ## What's new?
+* <p align="justify"><span style="color: #3498DB;">[Aug 2026]</span> Joined <a href="https://conferences.sigcomm.org/sigcomm/2026/artifacts/">SIGCOMM'26 Artifact Evaluation Committee</a></p>
+
 * <p align="justify"><span style="color: #3498DB;">[July 2026]</span> Finally, defended my thesis on 13th of July, 2026 :clap: :partying_face:</p>
 <p class="" style="margin: 2px;"></p>
 
