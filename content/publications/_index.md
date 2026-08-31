@@ -14,7 +14,7 @@ description: ""
 
 ### 2026
 ---
-* **<p align="justify"><font color="#FA8072">[PHD THESIS] Lightweight optimization strategies for modern video applications over wireless networks</font>**\
+* **<p align="justify"><font color="#FA8072">[PHD THESIS] Lightweight Optimization Strategies for Modern Video Applications over Wireless Networks</font>**\
 **<u>Shubham Chaudhary</u>**\
 <button style=
         "background-color: #669900 ; color: white;" name="pdfbutton"
