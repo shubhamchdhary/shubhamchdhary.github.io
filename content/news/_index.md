@@ -4,7 +4,7 @@ description: ""
 ---
 
 ## What's new?
-* <p align="justify"><span style="color: #3498DB;">[Sept 2026]</span> Joined NOSSDAV'27 Program Committee</a></p>
+* <p align="justify"><span style="color: #3498DB;">[Sept 2026]</span> Joined <a href="https://nossdav.org/2027/">NOSSDAV'27 Program Committee</a></p>
 
 * <p align="justify"><span style="color: #3498DB;">[Aug 2026]</span> Joined <a href="https://conferences.sigcomm.org/sigcomm/2026/artifacts/">SIGCOMM'26 Artifact Evaluation Committee</a></p>
 
