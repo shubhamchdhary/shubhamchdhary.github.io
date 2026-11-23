@@ -10,7 +10,7 @@ description: ""
 
 * Member of Doctoral Symposium Program Committee of MMSys 2026
 
-* Member of Artifact Evaluation Program Committee of SIGCOMM (2026, 2024), NSDI 2026, CoNEXT 2025
+* Member of Artifact Evaluation Program Committee of SenSys 2027, SIGCOMM (2026, 2024), NSDI 2026, CoNEXT 2025
 
 * Member of Shadow Technical Program Committee IMC 2025
 ---
