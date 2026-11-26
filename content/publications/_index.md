@@ -14,6 +14,17 @@ description: ""
 
 ### 2026
 ---
+* **<p align="justify"><font color="#FA8072">[Archive] Adaptive Selection of Relevant Samples for Continual Learning in Autonomous Vehicles </font>**\
+**<u>Shubham Chaudhary</u>**, Arani Bhattacharya, Saket Anand, Aruna Balasubramanian\
+<button style=
+        "background-color: #669900 ; color: white;" name="pdfbutton"
+        onclick=" window.open('https://doi.org/10.5281/zenodo.24393950', '_blank'); return false;">Paper</button>
+        <details>
+        <summary>Abstract</summary><p align="justify">
+        Perception via computer vision models is an in dispensable part of autonomous vehicles. Typically, a cheaper compressed model is deployed for prediction and control due to power, compute, and deadline constraints. However, such shallower models suffer from data drift, i.e., over time, their accuracy degrades due to changes in the distribution of real world test data requiring frequent retraining. Since models are
+        generally deployed on autonomous vehicles, in situ retraining is challenging due to limited memory and computing resources. To address this, the retraining job is offloaded to the cloud/edge servers. Therefore, the vehicle occasionally sends the captured frames to the server for retraining. In such retraining, it becomes essential to limit the number of selected training frames to minimize end-to-end delay in obtaining the retrained model without impairing post-training model accuracy. This work proposes PIPETTE, which samples the most useful frames for retraining and adaptively encodes them into a video based on the network bandwidth before streaming to the server. PIPETTE’s sampling strategy is relatively lightweight, as it reuses the inference results for frame selection. Thus, it seamlessly integrates with the existing workflow. We find that PIPETTE provides a 9.37% improvement in object detection accuracy over a static model and performs as well as other state-of-the art retraining approaches. PIPETTE further reduces the model update delay by 14% compared to a fixed sampling strategy.</p>
+        </details></p> 
+        
 * **<p align="justify"><font color="#FA8072">[PHD THESIS] Lightweight Optimization Strategies for Modern Video Applications over Wireless Networks</font>**\
 **<u>Shubham Chaudhary</u>**\
 <button style=
@@ -35,21 +46,6 @@ description: ""
 
 ### 2025
 ---
-<!-- * **<p align="justify"><font color="#FA8072">[BuildSys] Pipette: Adaptive Selection of Relevant Samples for Continual Learning in Autonomous Vehicles </font>**\
-**<u>Shubham Chaudhary</u>**, Saket Anand, Aruna Balasubramanian, Arani Bhattacharya\
-<font color="#3498DB"> In the Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys'25) to be held in Golden, Colorado, USA. </font><font style="float:right">**(Submitted)**</font>
-<!-- \ -->
-<!-- <button style=
-        "background-color: #669900 ; color: white;" name="pdfbutton"
-        onclick=" window.open('https://dl.acm.org/doi/10.1145/3712676.3714451', '_blank'); return false;">Paper</button>
-<button style=
-        "background-color: #A569BD ; color: white;" name="codebutton"
-        onclick=" window.open('https://github.com/shubhamchdhary/COMPACT', '_blank'); return false;">Code</button>
-        <details>
-        <summary>Abstract</summary><p align="justify">
-        Add here</p>
-        </details></p>  -->
-
 * **<p align="justify"><font color="#FA8072">[MMSys] COMPACT: Content-aware Multipath Live Video Streaming for Online Classes using Video Tiles </font>**\
 **<u>Shubham Chaudhary</u>**, Navneet Mishra, Keshav Gambhir, Tanmay Rajore, Arani Bhattacharya, Mukulika
 Maity\
